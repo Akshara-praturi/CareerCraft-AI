@@ -67,3 +67,5 @@ An AI-powered Career Assistance Platform built using React.js, Flask, SQLite, Ta
 ## 👨‍💻 Developer
 
 Akshara Praturi
+
+
