@@ -1,16 +1,69 @@
-# React + Vite
+# 🚀 CareerCraft AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered Career Assistance Platform built using React.js, Flask, SQLite, Tailwind CSS, and AI-powered resume analytics.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 📄 Resume Builder
 
-## React Compiler
+* Professional Resume Creation
+* Live Resume Preview
+* PDF Resume Download
+* Multiple Job Role Support
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🤖 ATS Resume Analyzer
 
-## Expanding the ESLint configuration
+* Resume PDF Upload
+* ATS Score Calculation
+* Skill Extraction
+* Missing Skills Detection
+* Resume Improvement Suggestions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📊 Dashboard Analytics
+
+* ATS Score Tracking
+* Skill Match Visualization
+* Career Insights Dashboard
+
+### 💼 Job Portal
+
+* Browse Job Listings
+* Job Details View
+* Skill Requirement Analysis
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* Tailwind CSS
+* Recharts
+* Framer Motion
+
+### Backend
+
+* Flask
+* Flask-CORS
+* SQLAlchemy
+
+### Database
+
+* SQLite
+
+### Libraries
+
+* PyPDF2
+* jsPDF
+
+## 🚀 Future Enhancements
+
+* User Authentication
+* AI Career Chatbot
+* Live Jobs API Integration
+* Resume History
+* AI Resume Optimization
+
+## 👨‍💻 Developer
+
+Akshara Praturi
