@@ -1,7 +1,13 @@
-# 🚀 CareerCraft AI
+#  CareerCraft AI
 
-An AI-powered Career Assistance Platform built using React.js, Flask, SQLite, Tailwind CSS, and AI-powered resume analytics.
+CareerCraft-AI 
+Full Stack AI Career Platform
 
+Tech Stack:
+- React.js (Frontend)
+- Flask (Backend)
+- SQLite (Database)
+- Tailwind CSS (UI)
 ## ✨ Features
 
 ### 📄 Resume Builder
